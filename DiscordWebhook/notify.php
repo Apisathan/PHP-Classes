@@ -22,7 +22,7 @@ class notify
         $this->content = "";
         $this->username = "CiviliansNetwork Refund";
         $this->avatar = "https://i.imgur.com/HUgauWf.png";
-        $this->webhook = "https://discordapp.com/api/webhooks/538344446773690368/Lv2qMGvcxFD21pjLAvgtZQxJAuqWYQrzkQRXSSWcqDn1woboU6kI9gI5pW-a0UcK6sPv";
+        $this->webhook = "WEBHOOK";
         $this->tts = false;
         $this->color = "ffcc00";
         $this->footer = "";
